@@ -1,0 +1,31 @@
+minimalistic example for creating an android app using the 'gmp' library.
+
+BASED ON
+
+ 1. hellojni example from android NDK (under $NDK_ROOT/samples)
+ 2. http://stackoverflow.com/questions/4285605/android-ndk-compile-gmp-library
+    by user Steph
+
+TESTED ON
+
+ ubuntu linux 10
+ android-ndk-r7
+ android emulator with CPU armeabi-v7a and OS Anroid 4.0
+ ant 1.8
+
+WHAT DOES IT DO
+
+ it is a normal java android app that will ask GMP the sum of two ratios.
+ it prints the answer on screen. 
+
+HOW TO USE
+
+ see http://en.wikibooks.org/wiki/User:Dbright/Android_compile
+
+LICENSE
+
+ This contains modifications of code originally copyright by 
+ The Android Open Source Project
+ and released under the Apache License 2.0
+ http://www.apache.org/licenses/LICENSE-2.0.html
+
